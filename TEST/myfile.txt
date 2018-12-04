@@ -1,1 +1,2 @@
-this is my first text file in github
+this is my first text file in github, changes to the end of file
+this is a new line
